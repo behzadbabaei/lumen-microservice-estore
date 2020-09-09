@@ -3,7 +3,9 @@ Release v1.0.1
 
 Simple functionality with redis driver
 
+Release v1.1.1
 
+Added fanout exchange
 
 # Lumen PHP Framework
 
