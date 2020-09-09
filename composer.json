@@ -8,7 +8,8 @@
         "php": "^7.2.5",
         "illuminate/redis": "v7.28.0",
         "laravel/lumen-framework": "^7.0",
-        "predis/predis": "^1.1"
+        "predis/predis": "^1.1",
+        "vladimir-yuldashev/laravel-queue-rabbitmq": "v10.2.2"
     },
     "require-dev": {
         "fzaninotto/faker": "^1.9.1",
