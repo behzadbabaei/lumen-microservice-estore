@@ -7,6 +7,10 @@ Release v1.1.1
 
 Added fanout exchange
 
+Release v1.2.0
+
+Added direct exchange
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
